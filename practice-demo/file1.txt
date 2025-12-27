@@ -1,3 +1,5 @@
 making chnages
 first line data added 
 second line data added
+third line added to file1.txt
+fourth ine added to file1.txt[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D linewe[C[C[C[C[C[C[C[C[C[C[C[C[C line added to file2.txt
