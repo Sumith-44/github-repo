@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi sturday
+=======
+i am fine
+>>>>>>> dev
